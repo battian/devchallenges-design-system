@@ -5,6 +5,7 @@
 </div>
 
 <div align="center">
+  <h2>Button component</h2>
   <h3>
     <a href="https://devchallenges-design-system.netlify.app/">
       Demo
@@ -15,6 +16,23 @@
     </a>
     <span> | </span>
     <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
+      Challenge
+    </a>
+  </h3>
+</div>
+
+<div align="center">
+  <h2>Input component</h2>
+  <h3>
+    <a href="https://devchallenges-design-system.netlify.app/">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="https://github.com/battian/devchallenges-design-system">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenges/TSqutYM4c5WtluM7QzGp">
       Challenge
     </a>
   </h3>
@@ -37,24 +55,14 @@
 
 ![screenshot](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/challengesDesigns%2FButtonThumbnail.png?alt=media&token=3ddbedcf-a08b-4144-928f-e551b4bcee80)
 
+![screenshot](https://firebasestorage.googleapis.com/v0/b/devchallenges-1234.appspot.com/o/challengesDesigns%2FInputThumbnail.png?alt=media&token=73685593-9026-42a6-8c68-00243071250e)
+
 ### Built With
 
 - [Create React App](https://github.com/facebook/create-react-app)
 - [TypeScript](https://www.typescriptlang.org)
 - [Styled Components](https://styled-components.com)
 - [Storybook](https://storybook.js.org)
-
-## Features
-
-- **User story**: I can see different button types: default, outline and text
-- **User story**: I can choose to disable box-shadow
-- **User story**: I can choose to disable button
-- **User story**: I can choose to have an icon on the left or right
-- **User story**: I can have different button sizes
-- **User story**: I can have different colors
-- **User story**: When I hover or focus, I can see visual indicators
-- **User story**: I can still access all button attributes;
-- **User story** (optional): Show button in a similar way like the design or use Storybook. Otherwise, showing the button in multiple states is enough
 
 ## How To Use
 

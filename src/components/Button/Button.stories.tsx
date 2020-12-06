@@ -5,7 +5,7 @@ import { Delete, CloudDownload } from '@material-ui/icons';
 import Button, { ButtonProps } from './index';
 
 export default {
-  title: 'Button/Button',
+  title: 'Components/Button',
   component: Button,
   argTypes: {
     leftIcon: { control: { disable: true } },

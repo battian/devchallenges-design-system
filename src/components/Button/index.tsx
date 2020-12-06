@@ -2,7 +2,7 @@ import React, { ButtonHTMLAttributes } from 'react';
 
 import { Container } from './styles';
 
-export type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
+export interface ButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
   variant?: 'default' | 'outline' | 'text';
   size?: 'sm' | 'md' | 'lg';
   color?: 'default' | 'primary' | 'secondary' | 'danger';
@@ -10,7 +10,7 @@ export type ButtonProps = ButtonHTMLAttributes<HTMLButtonElement> & {
   disableShadow?: boolean;
   leftIcon?: boolean;
   rightIcon?: boolean;
-};
+}
 
 const Button: React.FC<ButtonProps> = ({
   children,
